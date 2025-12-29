@@ -8,3 +8,10 @@ terraform.tfvars
 *.zip
 *.log
 .DS_Store
+# Python / venv
+venv/
+*.pyc
+__pycache__/
+
+# AWS CLI dist binaries
+aws/dist/
