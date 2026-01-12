@@ -15,3 +15,11 @@ __pycache__/
 
 # AWS CLI dist binaries
 aws/dist/
+# Maven build files
+target/
+
+# Terraform plan files
+*.tfplan
+
+# Logs
+*.log
